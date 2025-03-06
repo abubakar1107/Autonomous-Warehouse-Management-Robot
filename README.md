@@ -13,14 +13,14 @@ This project presents the development and implementation of a **Warehouse Manage
 Here are some images showcasing different stages of the project:
 
 ### **Robot arm movement**
-![Picture 1](1.jpg)
+![Picture 1](1.png)
 
 ### **Robot arm kinematics in matlab**
-![Picture 2](4.jpg)
+![Picture 2](4.png)
 
 ### **Gazebo simulation**
-![Picture 3](6.jpg)
+![Picture 3](6.png)
 
 ### **Gazebo and RViz simulation with Lidar incorporated**
-![Picture 3](7.jpg)
+![Picture 3](7.png)
 
